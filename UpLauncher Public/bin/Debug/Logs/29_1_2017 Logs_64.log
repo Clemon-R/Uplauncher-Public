@@ -1,0 +1,172 @@
+
+29/01/2017 20:04:45
+
+Open the design.config...
+NAME = [Pre Alpha] UpLauncher
+STYLE = 0
+BG_PATH = images\bg.png
+Check file (images\bg.png): 
+Local MD5: f21868af923009bc685465c2ec3849b0
+Web MD5: f21868af923009bc685465c2ec3849b0
+
+SIZE = 695,395
+BG_COLOR = 240,0,200
+HIDDEN_COLOR = 240,0,200
+ICON = images\favicon.ico
+Check file (images\favicon.ico): 
+Local MD5: 8b50db450857d9456b30de51a8e14c4e
+Web MD5: 8b50db450857d9456b30de51a8e14c4e
+
+PICTURE = 660,530,3013
+
+New picture (1):
+Design (1) : LOCATION = 660,5
+Design (1) : SIZE = 30,30
+Design (1) : BG_COLOR = 
+Design (1) : CURSOR = 1
+Design (1) : ACTION = 3
+PICTURE = 640,1015,1511
+
+New picture (2):
+Design (2) : LOCATION = 640,10
+Design (2) : SIZE = 15,15
+Design (2) : BG_COLOR = 
+Design (2) : CURSOR = 1
+Design (2) : ACTION = 1
+PICTURE = 3,218140,43images\jouer.png1Dofus.exeimages\jouer_hover.pngimages\jouer.png
+
+New picture (3):
+Design (3) : LOCATION = 3,218
+Design (3) : SIZE = 140,43
+Design (3) : BG_PATH = images\jouer.png
+Check file (images\jouer.png): 
+Local MD5: e3f3c4e4573ab6420b02f93d6b754f65
+Web MD5: e3f3c4e4573ab6420b02f93d6b754f65
+
+Design (3) : CURSOR = 1
+Design (3) : ACTION = Dofus.exe
+Design (3) : ACTION = images\jouer_hover.png
+Design (3) : ACTION = images\jouer.png
+PICTURE = 3,261140,43images\site.png1http://127.0.0.1/images\site_hover.pngimages\site.png
+
+New picture (7):
+Design (7) : LOCATION = 3,261
+Design (7) : SIZE = 140,43
+Design (7) : BG_PATH = images\site.png
+Check file (images\site.png): 
+Local MD5: b1cd1fdf1457df5d930285993746d8f6
+Web MD5: b1cd1fdf1457df5d930285993746d8f6
+
+Design (7) : CURSOR = 1
+Design (7) : ACTION = http://127.0.0.1/
+Design (7) : ACTION = images\site_hover.png
+Design (7) : ACTION = images\site.png
+PICTURE = 3,304140,43images\forum.png1http://127.0.0.1/images\forum_hover.pngimages\forum.png
+
+New picture (8):
+Design (8) : LOCATION = 3,304
+Design (8) : SIZE = 140,43
+Design (8) : BG_PATH = images\forum.png
+Check file (images\forum.png): 
+Local MD5: cdd69ba0e8983aeb11b62d61d19b8760
+Web MD5: cdd69ba0e8983aeb11b62d61d19b8760
+
+Design (8) : CURSOR = 1
+Design (8) : ACTION = http://127.0.0.1/
+Design (8) : ACTION = images\forum_hover.png
+Design (8) : ACTION = images\forum.png
+BUTTON = Vider le cache3,347140,4301255,153,0http://127.0.0.1/
+
+New button (9):
+Design (9) : NAME = Vider le cache
+Design (9) : LOCATION = 3,347
+Design (9) : SIZE = 140,43
+Design (9) : STYLE = 0
+Design (9) : CURSOR = 1
+Design (9) : BG_COLOR = 255,153,0
+Design (9) : ACTION = http://127.0.0.1/
+LABEL = 0,185255,255,255
+
+New label (4):
+Design (4) : NAME = 
+Design (4) : LOCATION = 0,185
+Design (4) : COLOR = 255,255,255
+LABEL = 0%660,185255,255,2550%
+
+New label (5):
+Design (5) : NAME = 0%
+Design (5) : LOCATION = 660,185
+Design (5) : COLOR = 255,255,255
+Design (5) : ACTION = 0%
+LABEL = Fichier: 5,185255,255,255Fichier: 
+
+New label (6):
+Design (6) : NAME = Fichier: 
+Design (6) : LOCATION = 5,185
+Design (6) : COLOR = 255,255,255
+Design (6) : ACTION = Fichier: 
+PICTURE = images\pb.png689,103,200images\pb white.png0,10
+
+New picture (10):
+Design (10) : BG_PATH = images\pb.png
+Check file (images\pb.png): 
+Local MD5: 871ba7e5acdb2d09fbfe5fb475204668
+Web MD5: 871ba7e5acdb2d09fbfe5fb475204668
+
+Design (10) : SIZE = 689,10
+Design (10) : LOCATION = 3,200
+Design (10) : IMG = images\pb white.png
+Check file (images\pb white.png): 
+Local MD5: 4945ca3f25404c8c624aedf86ce0af46
+Web MD5: 4945ca3f25404c8c624aedf86ce0af46
+
+Design (10) : ACTION = 0,10
+ACTION = 3,9
+ACTION = 3,9
+INFOS_UPDATE = 4
+
+Display of the form...
+Component (1) add action: Time 0
+Component (2) add action: Time 0
+Component (3) add action: Time 0
+Component (7) add action: Time 0
+Component (8) add action: Time 0
+Component (9) add action: Time 0
+Component (3) add action: Time 1
+Component (7) add action: Time 1
+Component (8) add action: Time 1
+Component (3) add action: Time 2
+Component (7) add action: Time 2
+Component (8) add action: Time 2
+Component (5) add action: Time 7
+Component (6) add action: Time 7
+Component (10) add action: Time 7
+
+Form movement add.
+Download informations...
+Check files...
+End of the update.
+
+Component (5) play action : time 6
+
+Component (6) play action : time 6
+
+Component (10) play action : time 6
+
+Component (5) play action : time 6
+
+Component (6) play action : time 6
+
+Component (10) play action : time 6
+
+Component (5) play action : time 6
+
+Component (6) play action : time 6
+
+Component (10) play action : time 6
+
+Component (1) play action : time 0
+
+Component (1) action: WIN_STATE=3
+
+Stop the process.

@@ -1,0 +1,8 @@
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\bin\Release\UpLauncher Public.exe.config
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\bin\Release\UpLauncher Public.exe
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\bin\Release\UpLauncher Public.pdb
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\obj\Release\UpLauncher_Public.main.resources
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\obj\Release\UpLauncher_Public.Properties.Resources.resources
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\obj\Release\UpLauncher Public.csproj.GenerateResource.Cache
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\obj\Release\UpLauncher Public.exe
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\obj\Release\UpLauncher Public.pdb

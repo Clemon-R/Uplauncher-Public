@@ -1,0 +1,515 @@
+
+25/01/2017 19:42:24
+
+Open the design.config...
+NAME = [Pre Alpha] UpLauncher
+STYLE = 0
+BG_PATH = images\bg.png
+Check file (images\bg.png): 
+Local MD5: f21868af923009bc685465c2ec3849b0
+Web MD5: f21868af923009bc685465c2ec3849b0
+
+SIZE = 695,395
+BG_COLOR = 240,0,200
+HIDDEN_COLOR = 240,0,200
+ICON = images\favicon.ico
+Check file (images\favicon.ico): 
+Local MD5: 8b50db450857d9456b30de51a8e14c4e
+Web MD5: 8b50db450857d9456b30de51a8e14c4e
+
+PICTURE = 660,530,3013
+
+New picture (1):
+Design (1) : LOCATION = 660,5
+Design (1) : SIZE = 30,30
+Design (1) : BG_COLOR = 
+Design (1) : CURSOR = 1
+Design (1) : ACTION = 3
+PICTURE = 640,1015,1511
+
+New picture (2):
+Design (2) : LOCATION = 640,10
+Design (2) : SIZE = 15,15
+Design (2) : BG_COLOR = 
+Design (2) : CURSOR = 1
+Design (2) : ACTION = 1
+PICTURE = 3,218140,43images\jouer.png1Dofus.exeimages\jouer_hover.pngimages\jouer.png
+
+New picture (3):
+Design (3) : LOCATION = 3,218
+Design (3) : SIZE = 140,43
+Design (3) : BG_PATH = images\jouer.png
+Check file (images\jouer.png): 
+Local MD5: e3f3c4e4573ab6420b02f93d6b754f65
+Web MD5: e3f3c4e4573ab6420b02f93d6b754f65
+
+Design (3) : CURSOR = 1
+Design (3) : ACTION = Dofus.exe
+Design (3) : ACTION = images\jouer_hover.png
+Design (3) : ACTION = images\jouer.png
+LABEL = 0,200255,255,255
+
+New label (4):
+Design (4) : NAME = 
+Design (4) : BG_COLOR = 
+Design (4) : LOCATION = 0,200
+Design (4) : COLOR = 255,255,255
+UPDATE = 43
+UpDate ON : INFOS=4
+UpDate ON : LOCK=3
+Component (1) add action: Time 0
+Component (2) add action: Time 0
+Component (3) add action: Time 0
+Component (3) add action: Time 1
+Component (3) add action: Time 2
+
+Form movement add.
+Download informations...
+Check files...
+Check file : audio\effects.swf
+Check file : audio\musics.swf
+Check file : clips\alignments\0.swf
+Check file : clips\alignments\1.swf
+Check file : clips\alignments\2.swf
+Check file : clips\alignments\3.swf
+Check file : clips\alignments\feats\1.swf
+Check file : clips\alignments\feats\10.swf
+Check file : clips\alignments\feats\11.swf
+Check file : clips\alignments\feats\12.swf
+Check file : clips\alignments\feats\13.swf
+Check file : clips\alignments\feats\2.swf
+Check file : clips\alignments\feats\3.swf
+Check file : clips\alignments\feats\4.swf
+Check file : clips\alignments\feats\5.swf
+Check file : clips\alignments\feats\6.swf
+Check file : clips\alignments\feats\7.swf
+Check file : clips\alignments\feats\8.swf
+Check file : clips\alignments\feats\9.swf
+Check file : clips\alignments\mini\0.swf
+Check file : clips\alignments\mini\1.swf
+Check file : clips\alignments\mini\2.swf
+Check file : clips\alignments\mini\3.swf
+Check file : clips\alignments\orders\1.swf
+Check file : clips\alignments\orders\2.swf
+Check file : clips\alignments\orders\3.swf
+Check file : clips\alignments\orders\4.swf
+Check file : clips\alignments\orders\5.swf
+Check file : clips\alignments\orders\6.swf
+Check file : clips\alignments\orders\7.swf
+Check file : clips\alignments\orders\8.swf
+Check file : clips\artworks\big\10.swf
+Check file : clips\artworks\big\100.swf
+Check file : clips\artworks\big\1001.swf
+Check file : clips\artworks\big\1002.swf
+Check file : clips\artworks\big\1003.swf
+Check file : clips\artworks\big\1004.swf
+Check file : clips\artworks\big\1005.swf
+Check file : clips\artworks\big\1006.swf
+Check file : clips\artworks\big\1007.swf
+Check file : clips\artworks\big\1008.swf
+Check file : clips\artworks\big\1009.swf
+Check file : clips\artworks\big\101.swf
+Check file : clips\artworks\big\1010.swf
+Check file : clips\artworks\big\1011.swf
+Check file : clips\artworks\big\1012.swf
+Check file : clips\artworks\big\1013.swf
+Check file : clips\artworks\big\1014.swf
+Check file : clips\artworks\big\1015.swf
+Check file : clips\artworks\big\1016.swf
+Check file : clips\artworks\big\1017.swf
+Check file : clips\artworks\big\1018.swf
+Check file : clips\artworks\big\1019.swf
+Check file : clips\artworks\big\1020.swf
+Check file : clips\artworks\big\1021.swf
+Check file : clips\artworks\big\1022.swf
+Check file : clips\artworks\big\1023.swf
+Check file : clips\artworks\big\1024.swf
+Check file : clips\artworks\big\1025.swf
+Check file : clips\artworks\big\1026.swf
+Check file : clips\artworks\big\1027.swf
+Check file : clips\artworks\big\1028.swf
+Check file : clips\artworks\big\1029.swf
+Check file : clips\artworks\big\1030.swf
+Check file : clips\artworks\big\1031.swf
+Check file : clips\artworks\big\1032.swf
+Check file : clips\artworks\big\1033.swf
+Check file : clips\artworks\big\1034.swf
+Check file : clips\artworks\big\1035.swf
+Check file : clips\artworks\big\1036.swf
+Check file : clips\artworks\big\1037.swf
+Check file : clips\artworks\big\1038.swf
+Check file : clips\artworks\big\1039.swf
+Check file : clips\artworks\big\1040.swf
+Check file : clips\artworks\big\1041.swf
+Check file : clips\artworks\big\1042.swf
+Check file : clips\artworks\big\1043.swf
+Check file : clips\artworks\big\1044.swf
+Check file : clips\artworks\big\1045.swf
+Check file : clips\artworks\big\1046.swf
+Check file : clips\artworks\big\1047.swf
+Check file : clips\artworks\big\1048.swf
+Check file : clips\artworks\big\1049.swf
+Check file : clips\artworks\big\1050.swf
+Check file : clips\artworks\big\1051.swf
+Check file : clips\artworks\big\1052.swf
+Check file : clips\artworks\big\1053.swf
+Check file : clips\artworks\big\1054.swf
+Check file : clips\artworks\big\1055.swf
+Check file : clips\artworks\big\1056.swf
+Check file : clips\artworks\big\1057.swf
+Check file : clips\artworks\big\1058.swf
+Check file : clips\artworks\big\1059.swf
+Check file : clips\artworks\big\1060.swf
+Check file : clips\artworks\big\1061.swf
+Check file : clips\artworks\big\1062.swf
+Check file : clips\artworks\big\1063.swf
+Check file : clips\artworks\big\1064.swf
+Download : clips\artworks\big\1064.swf
+Check file : clips\artworks\big\1065.swf
+Download : clips\artworks\big\1065.swf
+Check file : clips\artworks\big\1066.swf
+Download : clips\artworks\big\1066.swf
+Check file : clips\artworks\big\1067.swf
+Download : clips\artworks\big\1067.swf
+Check file : clips\artworks\big\1068.swf
+Download : clips\artworks\big\1068.swf
+Check file : clips\artworks\big\1069.swf
+Download : clips\artworks\big\1069.swf
+Check file : clips\artworks\big\1070.swf
+Download : clips\artworks\big\1070.swf
+Check file : clips\artworks\big\1071.swf
+Download : clips\artworks\big\1071.swf
+Check file : clips\artworks\big\1072.swf
+Download : clips\artworks\big\1072.swf
+Check file : clips\artworks\big\1073.swf
+Download : clips\artworks\big\1073.swf
+Check file : clips\artworks\big\1074.swf
+Download : clips\artworks\big\1074.swf
+Check file : clips\artworks\big\1075.swf
+Download : clips\artworks\big\1075.swf
+Check file : clips\artworks\big\1076.swf
+Download : clips\artworks\big\1076.swf
+Check file : clips\artworks\big\1077.swf
+Download : clips\artworks\big\1077.swf
+Check file : clips\artworks\big\1078.swf
+Download : clips\artworks\big\1078.swf
+Check file : clips\artworks\big\1079.swf
+Download : clips\artworks\big\1079.swf
+Check file : clips\artworks\big\1080.swf
+Download : clips\artworks\big\1080.swf
+Check file : clips\artworks\big\1081.swf
+Download : clips\artworks\big\1081.swf
+Check file : clips\artworks\big\1083.swf
+Download : clips\artworks\big\1083.swf
+Check file : clips\artworks\big\1084.swf
+Download : clips\artworks\big\1084.swf
+Check file : clips\artworks\big\1085.swf
+Download : clips\artworks\big\1085.swf
+Check file : clips\artworks\big\1086.swf
+Download : clips\artworks\big\1086.swf
+Check file : clips\artworks\big\1087.swf
+Download : clips\artworks\big\1087.swf
+Check file : clips\artworks\big\1088.swf
+Download : clips\artworks\big\1088.swf
+Check file : clips\artworks\big\1089.swf
+Download : clips\artworks\big\1089.swf
+Check file : clips\artworks\big\1090.swf
+Download : clips\artworks\big\1090.swf
+Check file : clips\artworks\big\1091.swf
+Download : clips\artworks\big\1091.swf
+Check file : clips\artworks\big\1092.swf
+Download : clips\artworks\big\1092.swf
+Check file : clips\artworks\big\1093.swf
+Download : clips\artworks\big\1093.swf
+Check file : clips\artworks\big\1095.swf
+Download : clips\artworks\big\1095.swf
+Check file : clips\artworks\big\1096.swf
+Download : clips\artworks\big\1096.swf
+Check file : clips\artworks\big\1097.swf
+Download : clips\artworks\big\1097.swf
+Check file : clips\artworks\big\1098.swf
+Download : clips\artworks\big\1098.swf
+Check file : clips\artworks\big\1099.swf
+Download : clips\artworks\big\1099.swf
+Check file : clips\artworks\big\11.swf
+Download : clips\artworks\big\11.swf
+Check file : clips\artworks\big\110.swf
+Download : clips\artworks\big\110.swf
+Check file : clips\artworks\big\1100.swf
+Download : clips\artworks\big\1100.swf
+Check file : clips\artworks\big\1101.swf
+Download : clips\artworks\big\1101.swf
+Check file : clips\artworks\big\1102.swf
+Download : clips\artworks\big\1102.swf
+Check file : clips\artworks\big\1103.swf
+Download : clips\artworks\big\1103.swf
+Check file : clips\artworks\big\1104.swf
+Download : clips\artworks\big\1104.swf
+Check file : clips\artworks\big\1105.swf
+Download : clips\artworks\big\1105.swf
+Check file : clips\artworks\big\1106.swf
+Download : clips\artworks\big\1106.swf
+Check file : clips\artworks\big\1107.swf
+Download : clips\artworks\big\1107.swf
+Check file : clips\artworks\big\1108.swf
+Download : clips\artworks\big\1108.swf
+Check file : clips\artworks\big\1109.swf
+Download : clips\artworks\big\1109.swf
+Check file : clips\artworks\big\111.swf
+Download : clips\artworks\big\111.swf
+Check file : clips\artworks\big\1110.swf
+Download : clips\artworks\big\1110.swf
+Check file : clips\artworks\big\1111.swf
+Download : clips\artworks\big\1111.swf
+Check file : clips\artworks\big\1112.swf
+Download : clips\artworks\big\1112.swf
+Check file : clips\artworks\big\1113.swf
+Download : clips\artworks\big\1113.swf
+Check file : clips\artworks\big\1114.swf
+Download : clips\artworks\big\1114.swf
+Check file : clips\artworks\big\1115.swf
+Download : clips\artworks\big\1115.swf
+Check file : clips\artworks\big\1116.swf
+Download : clips\artworks\big\1116.swf
+Check file : clips\artworks\big\1117.swf
+Download : clips\artworks\big\1117.swf
+Check file : clips\artworks\big\1118.swf
+Download : clips\artworks\big\1118.swf
+Check file : clips\artworks\big\1119.swf
+Download : clips\artworks\big\1119.swf
+Check file : clips\artworks\big\1120.swf
+Download : clips\artworks\big\1120.swf
+Check file : clips\artworks\big\1121.swf
+Download : clips\artworks\big\1121.swf
+Check file : clips\artworks\big\1122.swf
+Download : clips\artworks\big\1122.swf
+Check file : clips\artworks\big\1123.swf
+Download : clips\artworks\big\1123.swf
+Check file : clips\artworks\big\1124.swf
+Download : clips\artworks\big\1124.swf
+Check file : clips\artworks\big\1125.swf
+Download : clips\artworks\big\1125.swf
+Check file : clips\artworks\big\1126.swf
+Download : clips\artworks\big\1126.swf
+Check file : clips\artworks\big\1127.swf
+Download : clips\artworks\big\1127.swf
+Check file : clips\artworks\big\1128.swf
+Download : clips\artworks\big\1128.swf
+Check file : clips\artworks\big\1129.swf
+Download : clips\artworks\big\1129.swf
+Check file : clips\artworks\big\1130.swf
+Download : clips\artworks\big\1130.swf
+Check file : clips\artworks\big\1131.swf
+Download : clips\artworks\big\1131.swf
+Check file : clips\artworks\big\1132.swf
+Download : clips\artworks\big\1132.swf
+Check file : clips\artworks\big\1133.swf
+Download : clips\artworks\big\1133.swf
+Check file : clips\artworks\big\1134.swf
+Download : clips\artworks\big\1134.swf
+Check file : clips\artworks\big\1135.swf
+Download : clips\artworks\big\1135.swf
+Check file : clips\artworks\big\1136.swf
+Download : clips\artworks\big\1136.swf
+Check file : clips\artworks\big\1137.swf
+Download : clips\artworks\big\1137.swf
+Check file : clips\artworks\big\1138.swf
+Download : clips\artworks\big\1138.swf
+Check file : clips\artworks\big\1143.swf
+Download : clips\artworks\big\1143.swf
+Check file : clips\artworks\big\1144.swf
+Download : clips\artworks\big\1144.swf
+Check file : clips\artworks\big\1145.swf
+Download : clips\artworks\big\1145.swf
+Check file : clips\artworks\big\1146.swf
+Download : clips\artworks\big\1146.swf
+Check file : clips\artworks\big\1147.swf
+Download : clips\artworks\big\1147.swf
+Check file : clips\artworks\big\1148.swf
+Download : clips\artworks\big\1148.swf
+Check file : clips\artworks\big\1149.swf
+Download : clips\artworks\big\1149.swf
+Check file : clips\artworks\big\1150.swf
+Download : clips\artworks\big\1150.swf
+Check file : clips\artworks\big\1151.swf
+Download : clips\artworks\big\1151.swf
+Check file : clips\artworks\big\1152.swf
+Download : clips\artworks\big\1152.swf
+Check file : clips\artworks\big\1153.swf
+Download : clips\artworks\big\1153.swf
+Check file : clips\artworks\big\1154.swf
+Download : clips\artworks\big\1154.swf
+Check file : clips\artworks\big\1155.swf
+Download : clips\artworks\big\1155.swf
+Check file : clips\artworks\big\1156.swf
+Download : clips\artworks\big\1156.swf
+Check file : clips\artworks\big\1157.swf
+Download : clips\artworks\big\1157.swf
+Check file : clips\artworks\big\1158.swf
+Download : clips\artworks\big\1158.swf
+Check file : clips\artworks\big\1159.swf
+Download : clips\artworks\big\1159.swf
+Check file : clips\artworks\big\1160.swf
+Download : clips\artworks\big\1160.swf
+Check file : clips\artworks\big\1161.swf
+Download : clips\artworks\big\1161.swf
+Check file : clips\artworks\big\1162.swf
+Download : clips\artworks\big\1162.swf
+Check file : clips\artworks\big\1163.swf
+Download : clips\artworks\big\1163.swf
+Check file : clips\artworks\big\1164.swf
+Download : clips\artworks\big\1164.swf
+Check file : clips\artworks\big\1165.swf
+Download : clips\artworks\big\1165.swf
+Check file : clips\artworks\big\1166.swf
+Download : clips\artworks\big\1166.swf
+Check file : clips\artworks\big\1167.swf
+Download : clips\artworks\big\1167.swf
+Check file : clips\artworks\big\1168.swf
+Download : clips\artworks\big\1168.swf
+Check file : clips\artworks\big\1169.swf
+Download : clips\artworks\big\1169.swf
+Check file : clips\artworks\big\1171.swf
+Download : clips\artworks\big\1171.swf
+Check file : clips\artworks\big\1172.swf
+Download : clips\artworks\big\1172.swf
+Check file : clips\artworks\big\1173.swf
+Download : clips\artworks\big\1173.swf
+Check file : clips\artworks\big\1174.swf
+Download : clips\artworks\big\1174.swf
+Check file : clips\artworks\big\1175.swf
+Download : clips\artworks\big\1175.swf
+Check file : clips\artworks\big\1176.swf
+Download : clips\artworks\big\1176.swf
+Check file : clips\artworks\big\1177.swf
+Download : clips\artworks\big\1177.swf
+Check file : clips\artworks\big\1178.swf
+Download : clips\artworks\big\1178.swf
+Check file : clips\artworks\big\1179.swf
+Download : clips\artworks\big\1179.swf
+Check file : clips\artworks\big\1180.swf
+Download : clips\artworks\big\1180.swf
+Check file : clips\artworks\big\1181.swf
+Download : clips\artworks\big\1181.swf
+Check file : clips\artworks\big\1182.swf
+Download : clips\artworks\big\1182.swf
+Check file : clips\artworks\big\1184.swf
+Download : clips\artworks\big\1184.swf
+Check file : clips\artworks\big\1185.swf
+Download : clips\artworks\big\1185.swf
+Check file : clips\artworks\big\1186.swf
+Download : clips\artworks\big\1186.swf
+Check file : clips\artworks\big\1188.swf
+Download : clips\artworks\big\1188.swf
+Check file : clips\artworks\big\1189.swf
+Download : clips\artworks\big\1189.swf
+Check file : clips\artworks\big\1190.swf
+Download : clips\artworks\big\1190.swf
+Check file : clips\artworks\big\1191.swf
+Download : clips\artworks\big\1191.swf
+Check file : clips\artworks\big\1192.swf
+Download : clips\artworks\big\1192.swf
+Check file : clips\artworks\big\1193.swf
+Download : clips\artworks\big\1193.swf
+Check file : clips\artworks\big\1194.swf
+Download : clips\artworks\big\1194.swf
+Check file : clips\artworks\big\1195.swf
+Download : clips\artworks\big\1195.swf
+Check file : clips\artworks\big\1196.swf
+Download : clips\artworks\big\1196.swf
+Check file : clips\artworks\big\1197.swf
+Download : clips\artworks\big\1197.swf
+Check file : clips\artworks\big\1198.swf
+Download : clips\artworks\big\1198.swf
+Check file : clips\artworks\big\1199.swf
+Download : clips\artworks\big\1199.swf
+Check file : clips\artworks\big\120.swf
+Download : clips\artworks\big\120.swf
+Check file : clips\artworks\big\1201.swf
+Download : clips\artworks\big\1201.swf
+Check file : clips\artworks\big\1202.swf
+Download : clips\artworks\big\1202.swf
+Check file : clips\artworks\big\1203.swf
+Download : clips\artworks\big\1203.swf
+Check file : clips\artworks\big\1204.swf
+Download : clips\artworks\big\1204.swf
+Check file : clips\artworks\big\1205.swf
+Download : clips\artworks\big\1205.swf
+Check file : clips\artworks\big\1206.swf
+Download : clips\artworks\big\1206.swf
+Check file : clips\artworks\big\1207.swf
+Download : clips\artworks\big\1207.swf
+Check file : clips\artworks\big\1209.swf
+Download : clips\artworks\big\1209.swf
+Check file : clips\artworks\big\121.swf
+Download : clips\artworks\big\121.swf
+Check file : clips\artworks\big\1211.swf
+Download : clips\artworks\big\1211.swf
+Check file : clips\artworks\big\1212.swf
+Download : clips\artworks\big\1212.swf
+Check file : clips\artworks\big\1215.swf
+Download : clips\artworks\big\1215.swf
+Check file : clips\artworks\big\1216.swf
+Download : clips\artworks\big\1216.swf
+Check file : clips\artworks\big\1217.swf
+Download : clips\artworks\big\1217.swf
+Check file : clips\artworks\big\1218.swf
+Download : clips\artworks\big\1218.swf
+Check file : clips\artworks\big\1219.swf
+Download : clips\artworks\big\1219.swf
+Check file : clips\artworks\big\1220.swf
+Download : clips\artworks\big\1220.swf
+Check file : clips\artworks\big\1221.swf
+Download : clips\artworks\big\1221.swf
+Check file : clips\artworks\big\1222.swf
+Download : clips\artworks\big\1222.swf
+Check file : clips\artworks\big\1223.swf
+Download : clips\artworks\big\1223.swf
+Check file : clips\artworks\big\1226.swf
+Download : clips\artworks\big\1226.swf
+Check file : clips\artworks\big\1227.swf
+Download : clips\artworks\big\1227.swf
+Check file : clips\artworks\big\1228.swf
+Download : clips\artworks\big\1228.swf
+Check file : clips\artworks\big\1229.swf
+Download : clips\artworks\big\1229.swf
+Check file : clips\artworks\big\1230.swf
+Download : clips\artworks\big\1230.swf
+Check file : clips\artworks\big\1231.swf
+Download : clips\artworks\big\1231.swf
+Check file : clips\artworks\big\1232.swf
+Download : clips\artworks\big\1232.swf
+Check file : clips\artworks\big\1239.swf
+Download : clips\artworks\big\1239.swf
+Check file : clips\artworks\big\1240.swf
+Download : clips\artworks\big\1240.swf
+Check file : clips\artworks\big\1241.swf
+Download : clips\artworks\big\1241.swf
+Check file : clips\artworks\big\1242.swf
+Download : clips\artworks\big\1242.swf
+Check file : clips\artworks\big\1243.swf
+Download : clips\artworks\big\1243.swf
+Check file : clips\artworks\big\1244.swf
+Download : clips\artworks\big\1244.swf
+Check file : clips\artworks\big\1245.swf
+Download : clips\artworks\big\1245.swf
+Check file : clips\artworks\big\1246.swf
+Download : clips\artworks\big\1246.swf
+Check file : clips\artworks\big\1247.swf
+Download : clips\artworks\big\1247.swf
+Check file : clips\artworks\big\1248.swf
+Download : clips\artworks\big\1248.swf
+Check file : clips\artworks\big\1249.swf
+Download : clips\artworks\big\1249.swf
+Check file : clips\artworks\big\1250.swf
+Download : clips\artworks\big\1250.swf
+Check file : clips\artworks\big\1251.swf
+Download : clips\artworks\big\1251.swf
+Check file : clips\artworks\big\1252.swf
+Download : clips\artworks\big\1252.swf
+Check file : clips\artworks\big\1253.swf
+Download : clips\artworks\big\1253.swf
+Check file : clips\artworks\big\1254.swf
+Download : clips\artworks\big\1254.swf
+Check file : clips\artworks\big\1256.swf
+Download : clips\artworks\big\1256.swf

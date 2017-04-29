@@ -1,0 +1,18 @@
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher Public\UpLauncher Public\bin\Debug\UpLauncher Public.exe.config
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher Public\UpLauncher Public\bin\Debug\UpLauncher Public.exe
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher Public\UpLauncher Public\bin\Debug\UpLauncher Public.pdb
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher Public\UpLauncher Public\obj\Debug\UpLauncher Public.csprojResolveAssemblyReference.cache
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher Public\UpLauncher Public\obj\Debug\UpLauncher_Public.main.resources
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher Public\UpLauncher Public\obj\Debug\UpLauncher_Public.Properties.Resources.resources
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher Public\UpLauncher Public\obj\Debug\UpLauncher Public.csproj.GenerateResource.Cache
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher Public\UpLauncher Public\obj\Debug\UpLauncher Public.exe
+c:\users\raphael\documents\visual studio 2015\Projects\UpLauncher Public\UpLauncher Public\obj\Debug\UpLauncher Public.pdb
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\bin\Debug\UpLauncher Public.exe.config
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\obj\Debug\UpLauncher Public.exe
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\obj\Debug\UpLauncher Public.pdb
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\bin\Debug\UpLauncher Public.exe
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\bin\Debug\UpLauncher Public.pdb
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\obj\Debug\UpLauncher Public.csprojResolveAssemblyReference.cache
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\obj\Debug\UpLauncher_Public.main.resources
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\obj\Debug\UpLauncher_Public.Properties.Resources.resources
+C:\Users\raphael\OneDrive\Documents\APPLICATION\C#.NET\UpLauncher Public\UpLauncher Public\obj\Debug\UpLauncher Public.csproj.GenerateResource.Cache
